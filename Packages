@@ -1,15 +1,15 @@
-Package: WeatherLock
+Package: weatherlock
 Section: 
-Maintainer: 
+Maintainer: Tlachtli <rtjobe@yahoo.com>
 Architecture: iphoneos-arm
 Version: 1.0
 Depends: mobilesubstrate
-Filename: debs/weatherlock.bz2
-Size: 38696 bytes
-MD5sum: 
-SHA1: F29B7233ABFC9A9C90BB49B78132F6511E48B196
-SHA256: 23F75BD0CB4A3A7A1EA01903C2468FB1C5CE33D1E4E289DC23E218C5CD773B1A
+Filename: debs//weatherlock.bz2
+Size: 38696
+MD5sum: 2f7873a56cde489a4580b20879d742e3
+SHA1: 24c5e83a5c11ba6833e2e1fce24a0f640deb36fb
+SHA256: dcb2906430959c0d1d1483ea99b886e503c174b026d9cdb31c12c8403501ed67
 Description: Weather on lockscreen and wallpaper
-Name: 
-Author: 
-
+Name: WeatherLock
+Author: Tlachtli <rtjobe@yahoo.com>
+Depiction: http://decimation.github.io/Depic/depic/index.html
